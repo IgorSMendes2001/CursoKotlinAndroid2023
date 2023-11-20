@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppListaCurso</string>
+    <string name="manchester_silas">Manchester Silas</string>
+    <string name="primeiro_nome">Primeiro Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="curso_desejado">Curso desejado</string>
+    <string name="telefone">Telefone</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="finalizar">finalizar</string>
+    <string name="salvar">SALVAR</string>
 </resources>
