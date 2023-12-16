@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AppListaCurso</string>
+    <string name="hello_igor">Hello Igor!</string>
+    <string name="hello_silas">Hello Silas!</string>
+    <string name="salvar">Salvar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail:</string>
+    <string name="digite_sua_idade">Digite sua idade:</string>
+    <string name="aplicativo_lista_vip_curso_android">Aplicativo Lista VIP Curso Android</string>
+    <string name="digite_seu_nome">Digite seu nome:</string>
+    <string name="limpar">Limpar</string>
 </resources>
